@@ -1,8 +1,8 @@
-# Very short description of the package
+<!-- # Very short description of the package
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/det/dispenser-serial.svg?style=flat-square)](https://packagist.org/packages/det/dispenser-serial)
 [![Total Downloads](https://img.shields.io/packagist/dt/det/dispenser-serial.svg?style=flat-square)](https://packagist.org/packages/det/dispenser-serial)
-![GitHub Actions](https://github.com/det/dispenser-serial/actions/workflows/main.yml/badge.svg)
+![GitHub Actions](https://github.com/det/dispenser-serial/actions/workflows/main.yml/badge.svg) -->
 
 ## Installation
 
